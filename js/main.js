@@ -39,5 +39,5 @@ console.log(`Total de gasto: $${totalGasto}`);
 if (totalGasto > presupuesto) {
     alert("¡Has excedido tu presupuesto!" + " " + "El monto alcanzado es de:" + " " + totalGasto);
 } else {
-    alert("¡Gracias por su compra!" + " " + "El monto total es de:" + " " + totalGasto);
+    alert("¡Gracias por tu compra!" + " " + "El monto total es de:" + " " + totalGasto);
 }
